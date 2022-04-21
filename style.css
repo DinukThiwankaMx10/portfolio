@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Rowdies:wght@300&family=Square+Peg&family=Syne+Tactile&display=swap');
+#topic{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1300px;
+    height: 500px;
+    background-color: white;
+    background-image: url(/Pics/photo-1585241645927-c7a8e5840c42.jpg);
+    
+    
+}
+
+
+#Greet{
+    margin-top: 10px;
+    font-size: 40px;
+    position: relative;
+    top: 30px;
+    left: 520px;
+    color: #14A76C;
+
+}
+
+.img_cont img{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    position: relative;
+    left: 500px;
+    bottom: 100px;
+    
+}
+
+#Name{
+    font-size: 50px;
+    position: relative;
+    left: 330px;
+    color: white;
+}
+
+.span1{
+    color:#66FCF1 ;
+    font-size: 150px;
+}
+.Inter{
+    color: white;
+    position: relative;
+    left: 350px;
+    font-size: 25px;
+}
+
+body{
+    background-color:#272727;
+}
+h4{
+    font-size: 30px;
+
+}
+.blog_img{
+    height: 300px;
+    width: 500px;
+    position: relative;
+    left: 50px; 
+
+}
+.blog_p{
+    font-style: italic;
+    font-size: 20px;
+    position: relative;
+    left:50px ;
+    bottom: 70px;
+    color: white;
+
+}
+
+.blog_T1{
+    font-size: 35px;
+    position: relative;
+    left: 50px;
+    bottom: 40px;
+    color: aqua;
+}
+.s_blog{
+    height: 300px;
+    width: 500px;
+    position: relative;
+    left: 400px;
+    bottom: 475px;
+
+}
+.blog_T2{
+    font-size: 30px;
+    position: relative;
+    left: 400px;
+    bottom: 520px;
+    color: aqua;
+}
+.blog_p_2{
+    position: relative;
+    left: 400px;
+    bottom: 560px;
+    font-style: italic;
+    font-size:20px ;
+    color: white;
+}
+
+.f_blog{
+    border-style: solid;
+    border-width:5px;
+    border-color:black;
+    background-image: url("/Pics/bokeh-eiffel-tower-black-wallpaper-preview.jpg");
+    background-size: contain;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    bottom: 300px;
+    
+    
+}
+.blog_head{
+    position: relative;
+    left: 500px;
+    font-size: 150px;
+    font-family: Square Peg;
+    bottom: 100px;
+    color: #45A29E;
+    
+}
+.bio_pic{
+    width: 300px;
+    height: 300px;
+    border-radius:50%;
+    position: relative;
+    left: 500px;
+    bottom: 100px;
+    
+    
+}
+.bio{
+    position: relative;
+    bottom: 350px;
+    
+    
+}
+.s2{
+    color: #C3073F;
+    font-size: 30px;
+}
+
+.contact{
+    font-size: 50px;
+    position: relative;
+    bottom: 600px;
+    left: 380px;
+    color: #66FCF1;
+}
+.link_1{
+    color:  green;
+    position: relative;
+    top: 280px;
+    left: 120px;
+}
+.link_2{
+    position: relative;
+    top: 125px;
+    left: 220px;
+}
+.link_3{
+    position: relative;
+    left: 320px;
+    bottom: 25px;
+}
